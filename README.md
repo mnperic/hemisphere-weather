@@ -1,5 +1,5 @@
 # Global weather patterns based on hemisphere – Temperature, Humidity, Cloudiness, Wind Speed
-A study of global cities and weather patterns based on temperature, humidity, cloudiness and wind speed.
+A study of northern and southern hemisphere weather patterns based on temperature, humidity, cloudiness and wind speed.
 
 <p align="center">
   <img src="https://github.com/mnperic/hemisphere-weather/blob/main/Images/globe.png" alt="globe"/>
